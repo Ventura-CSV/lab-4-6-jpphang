@@ -7,9 +7,7 @@ def main():
             iternum += 1
         print()
 
-    ########################################
-    # Do not delete the return statement
-    ########################################
+
     return iternum
 
 
